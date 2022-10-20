@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\Lections\Example\Example001_HelloUser\bin\Debug\net6.0\Example001_HelloUser.exe
+D:\GeekBrains\C#\Lections\Example\Example001_HelloUser\bin\Debug\net6.0\Example001_HelloUser.deps.json
+D:\GeekBrains\C#\Lections\Example\Example001_HelloUser\bin\Debug\net6.0\Example001_HelloUser.runtimeconfig.json
+D:\GeekBrains\C#\Lections\Example\Example001_HelloUser\bin\Debug\net6.0\Example001_HelloUser.dll
+D:\GeekBrains\C#\Lections\Example\Example001_HelloUser\bin\Debug\net6.0\Example001_HelloUser.pdb
+D:\GeekBrains\C#\Lections\Example\Example001_HelloUser\obj\Debug\net6.0\Example001_HelloUser.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\Lections\Example\Example001_HelloUser\obj\Debug\net6.0\Example001_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\Lections\Example\Example001_HelloUser\obj\Debug\net6.0\Example001_HelloUser.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\Lections\Example\Example001_HelloUser\obj\Debug\net6.0\Example001_HelloUser.AssemblyInfo.cs
+D:\GeekBrains\C#\Lections\Example\Example001_HelloUser\obj\Debug\net6.0\Example001_HelloUser.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\Lections\Example\Example001_HelloUser\obj\Debug\net6.0\Example001_HelloUser.dll
+D:\GeekBrains\C#\Lections\Example\Example001_HelloUser\obj\Debug\net6.0\refint\Example001_HelloUser.dll
+D:\GeekBrains\C#\Lections\Example\Example001_HelloUser\obj\Debug\net6.0\Example001_HelloUser.pdb
+D:\GeekBrains\C#\Lections\Example\Example001_HelloUser\obj\Debug\net6.0\Example001_HelloUser.genruntimeconfig.cache
+D:\GeekBrains\C#\Lections\Example\Example001_HelloUser\obj\Debug\net6.0\ref\Example001_HelloUser.dll
