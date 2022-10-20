@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\Lections\Example\Example001_Devide\bin\Debug\net6.0\Example001_Devide.exe
+D:\GeekBrains\C#\Lections\Example\Example001_Devide\bin\Debug\net6.0\Example001_Devide.deps.json
+D:\GeekBrains\C#\Lections\Example\Example001_Devide\bin\Debug\net6.0\Example001_Devide.runtimeconfig.json
+D:\GeekBrains\C#\Lections\Example\Example001_Devide\bin\Debug\net6.0\Example001_Devide.dll
+D:\GeekBrains\C#\Lections\Example\Example001_Devide\bin\Debug\net6.0\Example001_Devide.pdb
+D:\GeekBrains\C#\Lections\Example\Example001_Devide\obj\Debug\net6.0\Example001_Devide.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\Lections\Example\Example001_Devide\obj\Debug\net6.0\Example001_Devide.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\Lections\Example\Example001_Devide\obj\Debug\net6.0\Example001_Devide.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\Lections\Example\Example001_Devide\obj\Debug\net6.0\Example001_Devide.AssemblyInfo.cs
+D:\GeekBrains\C#\Lections\Example\Example001_Devide\obj\Debug\net6.0\Example001_Devide.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\Lections\Example\Example001_Devide\obj\Debug\net6.0\Example001_Devide.dll
+D:\GeekBrains\C#\Lections\Example\Example001_Devide\obj\Debug\net6.0\refint\Example001_Devide.dll
+D:\GeekBrains\C#\Lections\Example\Example001_Devide\obj\Debug\net6.0\Example001_Devide.pdb
+D:\GeekBrains\C#\Lections\Example\Example001_Devide\obj\Debug\net6.0\Example001_Devide.genruntimeconfig.cache
+D:\GeekBrains\C#\Lections\Example\Example001_Devide\obj\Debug\net6.0\ref\Example001_Devide.dll
