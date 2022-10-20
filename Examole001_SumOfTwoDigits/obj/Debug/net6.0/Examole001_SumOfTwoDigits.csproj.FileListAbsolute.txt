@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\Lections\Example\Examole001_SumOfTwoDigits\obj\Debug\net6.0\Examole001_SumOfTwoDigits.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\Lections\Example\Examole001_SumOfTwoDigits\obj\Debug\net6.0\Examole001_SumOfTwoDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\Lections\Example\Examole001_SumOfTwoDigits\obj\Debug\net6.0\Examole001_SumOfTwoDigits.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\Lections\Example\Examole001_SumOfTwoDigits\obj\Debug\net6.0\Examole001_SumOfTwoDigits.AssemblyInfo.cs
+D:\GeekBrains\C#\Lections\Example\Examole001_SumOfTwoDigits\obj\Debug\net6.0\Examole001_SumOfTwoDigits.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\Lections\Example\Examole001_SumOfTwoDigits\bin\Debug\net6.0\Examole001_SumOfTwoDigits.exe
+D:\GeekBrains\C#\Lections\Example\Examole001_SumOfTwoDigits\bin\Debug\net6.0\Examole001_SumOfTwoDigits.deps.json
+D:\GeekBrains\C#\Lections\Example\Examole001_SumOfTwoDigits\bin\Debug\net6.0\Examole001_SumOfTwoDigits.runtimeconfig.json
+D:\GeekBrains\C#\Lections\Example\Examole001_SumOfTwoDigits\bin\Debug\net6.0\Examole001_SumOfTwoDigits.dll
+D:\GeekBrains\C#\Lections\Example\Examole001_SumOfTwoDigits\bin\Debug\net6.0\Examole001_SumOfTwoDigits.pdb
+D:\GeekBrains\C#\Lections\Example\Examole001_SumOfTwoDigits\obj\Debug\net6.0\Examole001_SumOfTwoDigits.dll
+D:\GeekBrains\C#\Lections\Example\Examole001_SumOfTwoDigits\obj\Debug\net6.0\refint\Examole001_SumOfTwoDigits.dll
+D:\GeekBrains\C#\Lections\Example\Examole001_SumOfTwoDigits\obj\Debug\net6.0\Examole001_SumOfTwoDigits.pdb
+D:\GeekBrains\C#\Lections\Example\Examole001_SumOfTwoDigits\obj\Debug\net6.0\Examole001_SumOfTwoDigits.genruntimeconfig.cache
+D:\GeekBrains\C#\Lections\Example\Examole001_SumOfTwoDigits\obj\Debug\net6.0\ref\Examole001_SumOfTwoDigits.dll
