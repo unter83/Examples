@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\Lections\Example\Example007_Fractal\bin\Debug\net6.0\Example007_Fractal.exe
+D:\GeekBrains\C#\Lections\Example\Example007_Fractal\bin\Debug\net6.0\Example007_Fractal.deps.json
+D:\GeekBrains\C#\Lections\Example\Example007_Fractal\bin\Debug\net6.0\Example007_Fractal.runtimeconfig.json
+D:\GeekBrains\C#\Lections\Example\Example007_Fractal\bin\Debug\net6.0\Example007_Fractal.dll
+D:\GeekBrains\C#\Lections\Example\Example007_Fractal\bin\Debug\net6.0\Example007_Fractal.pdb
+D:\GeekBrains\C#\Lections\Example\Example007_Fractal\obj\Debug\net6.0\Example007_Fractal.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\Lections\Example\Example007_Fractal\obj\Debug\net6.0\Example007_Fractal.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\Lections\Example\Example007_Fractal\obj\Debug\net6.0\Example007_Fractal.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\Lections\Example\Example007_Fractal\obj\Debug\net6.0\Example007_Fractal.AssemblyInfo.cs
+D:\GeekBrains\C#\Lections\Example\Example007_Fractal\obj\Debug\net6.0\Example007_Fractal.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\Lections\Example\Example007_Fractal\obj\Debug\net6.0\Example007_Fractal.dll
+D:\GeekBrains\C#\Lections\Example\Example007_Fractal\obj\Debug\net6.0\refint\Example007_Fractal.dll
+D:\GeekBrains\C#\Lections\Example\Example007_Fractal\obj\Debug\net6.0\Example007_Fractal.pdb
+D:\GeekBrains\C#\Lections\Example\Example007_Fractal\obj\Debug\net6.0\Example007_Fractal.genruntimeconfig.cache
+D:\GeekBrains\C#\Lections\Example\Example007_Fractal\obj\Debug\net6.0\ref\Example007_Fractal.dll
