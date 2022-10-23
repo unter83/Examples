@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\Lections\Example\Example009_NewArray\bin\Debug\net6.0\Example009_NewArray.exe
+D:\GeekBrains\C#\Lections\Example\Example009_NewArray\bin\Debug\net6.0\Example009_NewArray.deps.json
+D:\GeekBrains\C#\Lections\Example\Example009_NewArray\bin\Debug\net6.0\Example009_NewArray.runtimeconfig.json
+D:\GeekBrains\C#\Lections\Example\Example009_NewArray\bin\Debug\net6.0\Example009_NewArray.dll
+D:\GeekBrains\C#\Lections\Example\Example009_NewArray\bin\Debug\net6.0\Example009_NewArray.pdb
+D:\GeekBrains\C#\Lections\Example\Example009_NewArray\obj\Debug\net6.0\Example009_NewArray.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\Lections\Example\Example009_NewArray\obj\Debug\net6.0\Example009_NewArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\Lections\Example\Example009_NewArray\obj\Debug\net6.0\Example009_NewArray.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\Lections\Example\Example009_NewArray\obj\Debug\net6.0\Example009_NewArray.AssemblyInfo.cs
+D:\GeekBrains\C#\Lections\Example\Example009_NewArray\obj\Debug\net6.0\Example009_NewArray.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\Lections\Example\Example009_NewArray\obj\Debug\net6.0\Example009_NewArray.dll
+D:\GeekBrains\C#\Lections\Example\Example009_NewArray\obj\Debug\net6.0\refint\Example009_NewArray.dll
+D:\GeekBrains\C#\Lections\Example\Example009_NewArray\obj\Debug\net6.0\Example009_NewArray.pdb
+D:\GeekBrains\C#\Lections\Example\Example009_NewArray\obj\Debug\net6.0\Example009_NewArray.genruntimeconfig.cache
+D:\GeekBrains\C#\Lections\Example\Example009_NewArray\obj\Debug\net6.0\ref\Example009_NewArray.dll
