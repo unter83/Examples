@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\Lections\Example\Example011_ArrayRandom\obj\Debug\net6.0\Example011_ArrayRandom.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\Lections\Example\Example011_ArrayRandom\obj\Debug\net6.0\Example011_ArrayRandom.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\Lections\Example\Example011_ArrayRandom\obj\Debug\net6.0\Example011_ArrayRandom.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\Lections\Example\Example011_ArrayRandom\obj\Debug\net6.0\Example011_ArrayRandom.AssemblyInfo.cs
+D:\GeekBrains\C#\Lections\Example\Example011_ArrayRandom\obj\Debug\net6.0\Example011_ArrayRandom.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\Lections\Example\Example011_ArrayRandom\bin\Debug\net6.0\Example011_ArrayRandom.exe
+D:\GeekBrains\C#\Lections\Example\Example011_ArrayRandom\bin\Debug\net6.0\Example011_ArrayRandom.deps.json
+D:\GeekBrains\C#\Lections\Example\Example011_ArrayRandom\bin\Debug\net6.0\Example011_ArrayRandom.runtimeconfig.json
+D:\GeekBrains\C#\Lections\Example\Example011_ArrayRandom\bin\Debug\net6.0\Example011_ArrayRandom.dll
+D:\GeekBrains\C#\Lections\Example\Example011_ArrayRandom\bin\Debug\net6.0\Example011_ArrayRandom.pdb
+D:\GeekBrains\C#\Lections\Example\Example011_ArrayRandom\obj\Debug\net6.0\Example011_ArrayRandom.dll
+D:\GeekBrains\C#\Lections\Example\Example011_ArrayRandom\obj\Debug\net6.0\refint\Example011_ArrayRandom.dll
+D:\GeekBrains\C#\Lections\Example\Example011_ArrayRandom\obj\Debug\net6.0\Example011_ArrayRandom.pdb
+D:\GeekBrains\C#\Lections\Example\Example011_ArrayRandom\obj\Debug\net6.0\Example011_ArrayRandom.genruntimeconfig.cache
+D:\GeekBrains\C#\Lections\Example\Example011_ArrayRandom\obj\Debug\net6.0\ref\Example011_ArrayRandom.dll
