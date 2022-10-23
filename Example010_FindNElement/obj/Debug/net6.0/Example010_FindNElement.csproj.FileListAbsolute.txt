@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\Lections\Example\Example010_FindNElement\obj\Debug\net6.0\Example010_FindNElement.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\Lections\Example\Example010_FindNElement\obj\Debug\net6.0\Example010_FindNElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\Lections\Example\Example010_FindNElement\obj\Debug\net6.0\Example010_FindNElement.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\Lections\Example\Example010_FindNElement\obj\Debug\net6.0\Example010_FindNElement.AssemblyInfo.cs
+D:\GeekBrains\C#\Lections\Example\Example010_FindNElement\obj\Debug\net6.0\Example010_FindNElement.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\Lections\Example\Example010_FindNElement\bin\Debug\net6.0\Example010_FindNElement.exe
+D:\GeekBrains\C#\Lections\Example\Example010_FindNElement\bin\Debug\net6.0\Example010_FindNElement.deps.json
+D:\GeekBrains\C#\Lections\Example\Example010_FindNElement\bin\Debug\net6.0\Example010_FindNElement.runtimeconfig.json
+D:\GeekBrains\C#\Lections\Example\Example010_FindNElement\bin\Debug\net6.0\Example010_FindNElement.dll
+D:\GeekBrains\C#\Lections\Example\Example010_FindNElement\bin\Debug\net6.0\Example010_FindNElement.pdb
+D:\GeekBrains\C#\Lections\Example\Example010_FindNElement\obj\Debug\net6.0\Example010_FindNElement.dll
+D:\GeekBrains\C#\Lections\Example\Example010_FindNElement\obj\Debug\net6.0\refint\Example010_FindNElement.dll
+D:\GeekBrains\C#\Lections\Example\Example010_FindNElement\obj\Debug\net6.0\Example010_FindNElement.pdb
+D:\GeekBrains\C#\Lections\Example\Example010_FindNElement\obj\Debug\net6.0\Example010_FindNElement.genruntimeconfig.cache
+D:\GeekBrains\C#\Lections\Example\Example010_FindNElement\obj\Debug\net6.0\ref\Example010_FindNElement.dll
